@@ -1,0 +1,52 @@
+1:  Human cytosolic transaminases: side activities and patterns of discrimination towards physiologically available alternative substrates
+Francesco Caligiore, Erika Zangelmi, Carola Vetro, Takfarinas Kentache, Joseph P. Dewulf, Maria Veiga-da-Cunha, Emile Van Schaftingen, Guido Bommer, Alessio Peracchi
+Cell Mol Life Sci. 2022; 79(8): 421.  Published online 2022 Jul 14. doi: 10.1007/s00018-022-04439-3
+PMCID: PMC9283133
+
+2:  Recombinant l‐Amino Acid Oxidase with Broad Substrate Spectrum for Co‐substrate Recycling in (S)‐Selective Transaminase‐Catalyzed Kinetic Resolutions
+Tobias Heinks, Jannik Paulus, Simon Koopmeiners, Tobias Beuel, Prof. Dr. Norbert Sewald, Dr. Matthias Höhne, Prof. Dr. Uwe T. Bornscheuer, Prof. Dr. Gabriele Fischer von Mollard
+Chembiochem. 2022 Aug 17; 23(16): e202200329.  Published online 2022 Jul 5. doi: 10.1002/cbic.202200329
+PMCID: PMC9543090
+
+3:  Characterization of proteins from the 3N5M family reveals an operationally stable amine transaminase
+Manideep Kollipara, Philipp Matzel, Miriam Sowa, Stefan Brott, Uwe Bornscheuer, Matthias Höhne
+Appl Microbiol Biotechnol. 2022; 106(17): 5563–5574.  Published online 2022 Aug 6. doi: 10.1007/s00253-022-12071-1
+PMCID: PMC9418295
+
+4:  Genome mining and characterisation of a novel transaminase with remote stereoselectivity
+D. P. Gavin, F. J. Reen, J. Rocha-Martin, I. Abreu-Castilla, D. F. Woods, A. M. Foley, P. A. Sánchez-Murcia, M. Schwarz, P. O’Neill, A. R. Maguire, F. O’Gara
+Sci Rep. 2019; 9: 20285.  Published online 2019 Dec 30. doi: 10.1038/s41598-019-56612-7Correction in: Sci Rep. 2022; 12: 8947. 
+PMCID: PMC6937235
+
+5:  Structural dynamics of the transaminase active site revealed by the crystal structure of a co-factor free omega-transaminase from Vibrio fluvialis JS17
+Young-Cheul Shin, Hyungdon Yun, Hyun Ho Park
+Sci Rep. 2018; 8: 11454.  Published online 2018 Jul 30. doi: 10.1038/s41598-018-29846-0
+PMCID: PMC6065307
+
+6:  Discovery and structural characterisation of new fold type IV-transaminases exemplify the diversity of this enzyme fold
+Tea Pavkov-Keller, Gernot A. Strohmeier, Matthias Diepold, Wilco Peeters, Natascha Smeets, Martin Schürmann, Karl Gruber, Helmut Schwab, Kerstin Steiner
+Sci Rep. 2016; 6: 38183.  Published online 2016 Dec 1. doi: 10.1038/srep38183
+PMCID: PMC5131300
+
+7:  On the flexibility of the cellular amination network in E coli
+Helena Schulz-Mirbach, Alexandra Müller, Tong Wu, Pascal Pfister, Selçuk Aslan, Lennart Schada von Borzyskowski, Tobias J Erb, Arren Bar-Even, Steffen N Lindner
+eLife. 2022; 11: e77492.  Published online 2022 Jul 25. doi: 10.7554/eLife.77492
+PMCID: PMC9436414
+
+8:  Surface Expression of ω-Transaminase in Escherichia coli
+Martin Gustavsson, Madhu Nair Muraleedharan, Gen Larsson
+Appl Environ Microbiol. 2014 Apr; 80(7): 2293–2298.  doi: 10.1128/AEM.03678-13
+PMCID: PMC3993154
+
+9:  Structural studies reveal flexible roof of active site responsible for ω-transaminase CrmG overcoming by-product inhibition
+Jinxin Xu, Xiaowen Tang, Yiguang Zhu, Zhijun Yu, Kai Su, Yulong Zhang, Yan Dong, Weiming Zhu, Changsheng Zhang, Ruibo Wu, Jinsong Liu
+Commun Biol. 2020; 3: 455.  Published online 2020 Aug 19. doi: 10.1038/s42003-020-01184-w
+PMCID: PMC7438487
+
+10:  Computer Modeling Explains the Structural Reasons for the Difference in Reactivity of Amine Transaminases Regarding Prochiral Methylketones
+Iris S. Teixeira, André B. Farias, Bruno A. C. Horta, Humberto M. S. Milagre, Rodrigo O. M. A. de Souza, Uwe T. Bornscheuer, Cintia D. F. Milagre
+Int J Mol Sci. 2022 Jan; 23(2): 777.  Published online 2022 Jan 11. doi: 10.3390/ijms23020777
+PMCID: PMC8776209
+
+
+

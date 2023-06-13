@@ -1,0 +1,7 @@
+/user/mahaohui/IMG2SMILES/collect_NCBI_pdf/download.py:61: DtypeWarning: Columns (5) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = read_csv(args.input_csv,  encoding='utf_8_sig')
+/user/mahaohui/IMG2SMILES/collect_NCBI_pdf/download.py:92: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  unchecked_data.loc[checked_record_num + i, "Downloaded"] = False

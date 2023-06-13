@@ -1,5 +1,19 @@
 # molecular_picture_database
 
+## how to use the small demo
+
+the mini sql file contain 18 paper for demo usage. the picture is a path. 
+
+sql file location: /mini_sql_example/molecular_picture.sql
+
+import molecular_picture.sql to mysql as sql 
+
+( if you wish to launch mysql in local, download and install xampp from https://www.apachefriends.org/download.html, launch apache and mysql on local server)
+
+![圖片](https://github.com/mahofai/molecular_picture_database/assets/47138261/c1e3a3fd-f9fa-46ab-a15e-4424fc49d853)
+
+
+## Tasks
 
 ### data relationship
 
@@ -29,11 +43,13 @@ picture 2 smiles
 
 picture 2 paper
 
+
+## structure of database
+
 ![圖片](https://github.com/mahofai/molecular_picture_database/assets/47138261/7b4d4776-3ea3-4e2a-87a9-db3fd9eb149a)
 
 
-
-
+## example query of sql
 
 ```
 SELECT DISTINCT mp.* FROM m_picture mp
